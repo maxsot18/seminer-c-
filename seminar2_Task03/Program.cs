@@ -30,4 +30,4 @@ if (number >= 100)
     
 }
 else
-Console.WriteLine("Not Three dig num");
+Console.WriteLine("Don't have a third number");
